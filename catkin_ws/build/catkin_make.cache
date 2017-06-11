@@ -1,0 +1,2 @@
+openni_tracker-hydro-devel
+-DCATKIN_DEVEL_PREFIX=/home/ardi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ardi/catkin_ws/install -G Unix Makefiles
